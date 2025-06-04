@@ -1,6 +1,6 @@
 ## GroupKeeper
 
-__[Telegram交流群](https://t.me/oyDevelopersClub)__ | __[最新发布版](https://github.com/OoooYoung/TelegramSafetyKeeper/releases/latest)__ | __[Telegram group](https://t.me/oyDevelopersClub)__ | __[Latest release](https://github.com/OoooYoung/TelegramSafetyKeeper/releases/latest)__
+__[Telegram交流群](https://t.me/oyDevelopersClub)__ 
 
 ![Static Badge](https://img.shields.io/badge/Node-18.x-green?style=plastic)
 
@@ -14,4 +14,4 @@ Focus on group entry verification/advertising detection
 - [ ] 反垃圾
 - [ ] 反刷屏
 
-提建议，提反馈，需要定制，前往👉 __[交流群](https://t.me/oyDevelopersClub)__
+提建议，提反馈，需要定制，前往👉 https://t.me/oyDevelopersClub
